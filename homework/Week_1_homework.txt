@@ -1,0 +1,19 @@
+Week 1 - Homework
+
+Individual:
+
+Go to the GDC Vault: https://www.gdcvault.com/browse/
+Find a video that looks interesting to you. Watch it. Take notes on important points that stand out.
+
+Post a link to the video you watched. Next class, you will be asked to summarize a couple of important points from the video you watched.
+
+Next, play some games. Pick up some games that you like, with a critical eye towards what you like about them and whether you could make them. See if there are any dev blogs or talks on those game specifically.
+
+Finally, install the latest version of Unity on your computer (it's free): https://store.unity.com/download?ref=personal
+
+
+Team:
+
+Brainstorm with your team. Narrow down the kinds of games you like, what you want to create, what you are able to create, and the mechanics, art styles, and story elements that you want to explore.
+
+Come to class with a one-sentence elevator pitch for your idea, and be ready to discuss it.
