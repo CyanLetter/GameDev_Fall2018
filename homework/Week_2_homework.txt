@@ -1,0 +1,29 @@
+Homework
+
+Brainstorm with your team some more. Revise your ideas based on our class discussion. Throw out things that you aren't passionate about. Your first ideas are not going to be your best, so pivot as much as you need to at this stage.
+
+You will have additional tasks based on your team role. I understand that some people responsible for art will want to work on code, and vice versa - that is fine, you are free to take on multiple roles, just understand that:
+- Every team must have at least one person responsible for art, and one for development
+- You will only need to turn in homework based on your primary role
+
+Now, on to your assignment.
+
+If you are in charge of ART:
+
+Generate or source some art. If you are creating the game art yourself, start sketching and figuring out a style. Generate a lot of options to choose from, and iterate on your designs. You are not creating assets just yet, just establishing look and feel, so focus more on creating ideas and worry about cleanup later.
+
+If you are using preexisting art, start tracking down examples of assets you want to use. You will be limited by what you are able to find, so be thorough when researching what is available to you. Some game art resources to get you started:
+
+https://opengameart.org
+https://opengamegraphics.com
+https://www.gameart2d.com/freebies.html
+https://www.glitchthegame.com/public-domain-game-art/
+
+Submit a zip file with your findings.
+
+
+If you are responsible for CODE:
+
+Experiment and expand upon the game that we built in class. Write code that extends the controls or movement. Add things that can kill the player. Reinforce what you learned about working in Unity and programming in C#. If there are components or systems you are considering for your game, look through the documentation and try implementing them.
+
+Submit a build of the changes you have made to the game.
