@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Game Dev</title>
+
+		<meta name="description" content="Lecture for Game Dev">
+		<meta name="author" content="Dakota Ling">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css" id="theme">
+
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/monokai-sublime.css">
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section>
+					<h1>Week 4 - Player Movement and Level Design</h1>
+				</section>
+
+				<section>
+					<h3>Prototype Review</h3>
+				</section>
+
+				<section>
+					<h2>Animation States</h2>
+				</section>
+
+				<section>
+					<h2>Player Movement</h2>
+				</section>
+
+				<section>
+					<section>
+						<h2>Camera Movement</h2>
+					</section>
+
+					<section>
+						<p>Cameras should support player movement and gameplay.</p>
+						<p><a href="https://www.gamasutra.com/blogs/ItayKeren/20150511/243083/Scroll_Back_The_Theory_and_Practice_of_Cameras_in_SideScrollers.php">Camera Behavior Study</a></p>
+					</section>
+				</section>
+
+				<section>
+					<section>
+						<h2>Level Design</h2>
+					</section>
+
+					<section>
+						<p>Onboarding - First level should seamlessly teach the mechanics.</p>
+						<p><a href="https://www.youtube.com/watch?v=ZH2wGpEZVgE">Extra Credits</a></p>
+					</section>
+
+					<section>
+						<p>Modularity - Small Components</p>
+						<ul>
+							<li>Performance</li>
+							<li>Reusability</li>
+							<li>Iteration</li>
+						</ul>
+						<p><a href="https://www.youtube.com/watch?v=NxqV_ZFgSgA">2D Modular Environment</a></p>
+					</section>
+				</section>
+
+				
+			</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
